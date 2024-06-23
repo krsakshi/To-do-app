@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #041c4d;  /* Updated background color */
+    background-color: #041c4d; 
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    color: white;  /* Updated text color to ensure readability */
+    color: white;
 }
 
 .container {
@@ -15,12 +15,12 @@ body {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 300px;
-    color: black;  /* Ensures the text inside the container remains readable */
+    color: black; 
 }
 
 h1 {
     text-align: center;
-    color: #041c4d;  /* Match the header color to the background for a cohesive look */
+    color: #041c4d; 
 }
 
 .input-section {
