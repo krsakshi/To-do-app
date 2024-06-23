@@ -13,3 +13,8 @@
 <p> For those searching for a simple method to stay on top of their daily tasks and make sure nothing is overlooked, this to-do app is ideal. This program keeps you efficient and organized whether you're handling professional responsibilities, personal chores, or study routines. Your task management is given a sophisticated and elegant touch with the dark blue background. </p> </body> </html>
 <h1><P>This is How it Looks</P></h1>
 <img src="Image.png" alt=" Image ">
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. Click [https://github.com/krsakshi/To-do-app/blob/main/LICENSE.md] for more information.
